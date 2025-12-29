@@ -99,7 +99,7 @@ def apply_opacity_to_image(image, opacity_val):
 @bot.message_handler(commands=['start', 'help'])
 def send_welcome(message):
     txt = (
-        "💎 *Watermark Bot V12*\n\n"
+        "💎 *WB Watermark AI*\n\n"
         "✨ *Polished Experience:* Easier menus & smarter logic.\n"
         "📸 *Send Photo:* I'll watermark it instantly.\n"
         "👥 *Personalized:* I remember your unique settings.\n"
